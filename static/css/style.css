@@ -127,7 +127,7 @@ hr {
 	position:absolute;
 	top: 5px;
 	left: 5px;
-	width: 250px;
+	width: 16em;
 	height: 100%;
 }
 .sidebar h2,.sidebar h3, .sidebar h4,.sidebar p, .body h1 {
@@ -135,7 +135,7 @@ hr {
 }
 .body {
 	position:absolute;
-	left:275px;
+	left:18em;
 	height:100%;
 }
 .body p {
